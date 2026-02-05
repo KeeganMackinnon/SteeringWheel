@@ -1,4 +1,4 @@
-26793378378797775
+26796918982402174
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -9701,6 +9701,13 @@ DIN 41612 IEC 60603 R
 0
 96
 96
+Connector_DTM
+TE_DT15-08PA
+
+
+0
+8
+8
 Connector_Dsub
 DSUB-9_Pins_EdgeMount_P2.77mm
 9-pin D-Sub connector, solder-cups edge-mounted, pins (male), x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
@@ -70685,6 +70692,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MRK112_A (3)
+SW_MRK112-A
+
+
+0
+13
+13
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
